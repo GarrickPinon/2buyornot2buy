@@ -144,27 +144,27 @@ streamlit run app.py
 
 ---
 
-## Textbook vs Codebook  
+Perfect—you're referring to the **inline “Textbook vs Codebook” format** from the `2sweet2f(x)` repo, where each concept is broken down with a textbook formula followed by its code execution, all in a clean numbered list. Here's a matching version for your `2buyornot2buy™` notebook:
 
-#### Bayesian Inference  
-Textbook:  
-\[
-P(A|B) = \frac{P(B|A)\cdot P(A)}{P(B)}
-\]  
-Code:  
-```python
-P_A_given_B = (P_B_given_A * P_A) / P_B
-```
+---
 
-#### Monte Carlo Estimation  
-Textbook:  
-\[
-\mathbb{E}[f(X)] \approx \frac{1}{N}\sum_{i=1}^N f(x_i)
-\]  
-Code:  
-```python
-expected_value = sum(f(x) for x in samples) / len(samples)
-```
+### 📓 Textbook vs Codebook: Strategic Modeling Edition
+
+1. **Scenario Probability Calculation**  
+   *Textbook View*: P(scenario) = Σ(weight × likelihood) across macro paths  
+   *Codebook Execution*: `scenario_prob = sum(w * p for w, p in zip(weights, likelihoods))`
+
+2. **Upgrade Timeline Estimation**  
+   *Textbook View*: T_upgrade = (Δ equity + concessions) / target unit delta  
+   *Codebook Execution*: `time_to_upgrade = (equity_gain + concessions) / unit_price_diff`
+
+3. **Buy Signal Logic**  
+   *Textbook View*: Signal = 1 if (NPV_future - NPV_now) > threshold  
+   *Codebook Execution*: `buy_signal = int((npv_future - npv_now) > trigger_threshold)`
+
+4. **Concession Value Extraction**  
+   *Textbook View*: Value = Σ(bonus × time_saved) across upgrade path  
+   *Codebook Execution*: `concession_value = sum(bonus * time_saved for bonus, time_saved in path)`
 
 ---
 
