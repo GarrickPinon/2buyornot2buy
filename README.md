@@ -188,7 +188,7 @@ This is not a demo, not a class assignment, not a generic tutorial—this is **2
 [![Drop Type: Portfolio Artifact](https://img.shields.io/badge/Drop%20Type-Portfolio%20Artifact-teal.svg)](#)
 [![🧼 Format Certified](https://img.shields.io/badge/Format-Certified-lightblue.svg)](#)
 [![📊 Recall-Optimized](https://img.shields.io/badge/Recall-Optimized-blue.svg)](#)
-[![📁 Structure Certified](https://img.shields.io/badge/Structure-Certified-orange.s
+[![📁 Structure Certified](https://img.shields.io/badge/Structure-Certified-orange.svg)](#)
 [![🧱 Modular ML Certified](https://img.shields.io/badge/Modular%20ML-Certified-red.svg)](#)
 
 ---
