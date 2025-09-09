@@ -1,4 +1,4 @@
-# 2buyornot2buy™ 🏙️  
+### 🏙️ 2buyornot2buy™ 🏙️  
 *A Shakespearean pun meets strategic real estate decision science. Powered by Alpha De Luxe™.*  
 
 ![Upgrade Path Timeline – The Parker Boston](images/Parker%20Analysis.png)
@@ -15,34 +15,37 @@
 
 ---
 
-## Table of Contents  
-- [What is 2buyornot2buy™?](#what-is-2buyornot2buy)  
-- [Powered by](#powered-by)  
-- [Proprietary Modules](#proprietary-modules)  
-- [How It Works](#how-it-works)  
-  - [ETL](#etl)  
-  - [EDA](#eda)  
-  - [Micro-Alpha Scaffolding](#micro-alpha-scaffolding)  
-  - [Feature Engineering](#feature-engineering)  
-  - [Price Forecasting](#price-forecasting)  
-  - [Macroeconomic Scenario Forecasting Engine™](#macroeconomic-scenario-forecasting-engine)  
-  - [Scenario Forecast Comparison Engine™](#scenario-forecast-comparison-engine)  
-  - [Macroeconomic Scenario Probability Calculator™](#macroeconomic-scenario-probability-calculator)  
-  - [Weighted Macroeconomic Probability Calculator™](#weighted-macroeconomic-probability-calculator)  
-  - [Micro-Market Incentive Value Extraction Calculator™](#micro-market-incentive-value-extraction-calculator)  
-  - [The Buy Signal Decision Engine™](#the-buy-signal-decision-engine)  
-  - [Upgrade Path & Timeline Calculator™](#upgrade-path--timeline-calculator)  
-  - [Move-In Bonus Calculator™](#move-in-bonus-calculator)  
-- [Quick Start](#quick-start)  
-- [Repo Structure](#repo-structure)  
-- [Statistical & Mathematical Foundations](#statistical--mathematical-foundations)  
-- [Textbook vs Codebook](#textbook-vs-codebook)  
-- [Contributing](#contributing)  
-- [License](#license)  
+## 🔗 Table of Contents
+
+- [📖 What is 2buyornot2buy™?](#what-is-2buyornot2buy)
+- [🔧 Powered by](#powered-by)
+- [🌀 How It Works](#how-it-works)
+  - [🗂️ ETL](#etl)
+  - [📊 EDA](#eda)
+  - [🧬 Micro-Alpha Scaffolding](#micro-alpha-scaffolding)
+  - [🏗️ Feature Engineering](#feature-engineering)
+  - [📈 Price Forecasting](#price-forecasting)
+- [🌐 Macroeconomic Modules](#macroeconomic-modules)
+  - [📉 Scenario Forecasting](#macroeconomic-scenario-forecasting-engine)
+  - [📊 Scenario Comparison](#scenario-forecast-comparison-engine)
+  - [🎲 Scenario Probability](#macroeconomic-scenario-probability-calculator)
+  - [⚖️ Weighted Forecast](#weighted-macroeconomic-probability-calculator)
+- [🏙️ Incentive & Decision Modules](#incentive--decision-modules)
+  - [🎁 Incentive Extraction](#micro-market-incentive-value-extraction-calculator)
+  - [🎯 Buy Signal Engine](#the-buy-signal-decision-engine)
+  - [📆 Upgrade Timeline](#upgrade-path--timeline-calculator)
+  - [💸 Move-In Bonus](#move-in-bonus-calculator)
+- [🚀 Quick Start](#quick-start)
+- [🗂️ Repo Structure](#repo-structure)
+- [📐 Foundations](#statistical--mathematical-foundations)
+- [📓 Textbook vs Codebook](#textbook-vs-codebook)
+- [🤝 Contributing](#contributing)
+- [🪪 License](#license)
+
 
 ---
 
-## What is 2buyornot2buy™?  
+## 📖 What is 2buyornot2buy™?  
 A strategic decision engine for timing and structuring luxury condo acquisitions at The Parker in Boston. Got Shakespeare on your side, *to buy or not to buy?* 
 
 Answered with data.  
@@ -53,7 +56,7 @@ A unique, original, first-of-its-kind scaffold combining proprietary applied mat
 
 ---
 
-## Proprietary Modules  
+## 🔧 Proprietary Modules  
 - **Macroeconomic Scenario Forecasting Engine™**  
 - **Scenario Forecast Comparison Engine™**  
 - **Macroeconomic Scenario Probability Calculator™**  
@@ -65,50 +68,52 @@ A unique, original, first-of-its-kind scaffold combining proprietary applied mat
 
 ---
 
-## How It Works  
+## 🌀 How It Works  
 
-### ETL  
+### 🗂️ ETL  
 Extract Boston condo pricing, incentives, and macro data; transform into unified time series; load into ML-ready tables.  
 
-### EDA  
+### 📊 EDA  
 Explore price distributions, incentive impacts, and seasonal patterns with interactive visualizations.  
 
-### Micro-Alpha Scaffolding  
+### 🧬 Micro-Alpha Scaffolding  
 Build focused sub-models on niche signals—like fringe market incentives—layered to amplify alpha.  
 
-### Feature Engineering  
+### 🏗️ Feature Engineering  
 Synthesize lagged mortgage rates, inflation adjustments, and neighborhood quality into predictive features.  
 
-### Price Forecasting  
+### 📈 Price Forecasting  
 Train ensemble regressors (Random Forest, XGBoost) on log-transformed price indices.  
 
-### Macroeconomic Scenario Forecasting Engine™  
+### 🌐 Macroeconomic Scenario Forecasting Engine™  
 Simulate future housing price indices under user-defined interest-rate and inflation regimes.  
 
-### Scenario Forecast Comparison Engine™  
+### 📊 Scenario Forecast Comparison Engine™  
 Overlay historical data and multiple rate scenarios in one plot with clear seasonal markers.  
 
-### Macroeconomic Scenario Probability Calculator™  
+### 🎲 Macroeconomic Scenario Probability Calculator™  
 Assign probabilities to each scenario based on historical patterns and market expectations.  
 
-### Weighted Macroeconomic Probability Calculator™  
+### ⚖️ Weighted Macroeconomic Probability Calculator™  
 Compute a blended forecast by weighting scenario outputs by their assigned probabilities.  
+---
+### 🏙️ Incentive & Decision Modules
 
-### Micro-Market Incentive Value Extraction Calculator™  
+### 🎁Micro-Market Incentive Value Extraction Calculator™  
 Quantify how local closing-cost credits, rate buydowns, and amenity packages shift effective price.  
 
-### The Buy Signal Decision Engine™  
+### 🎯The Buy Signal Decision Engine™  
 Apply decision logic to forecasted scenarios, generating “buy now” or “wait” signals.  
 
-### Upgrade Path & Timeline Calculator™  
+### 📆 Upgrade Path & Timeline Calculator™  
 Model equity build-up and trade-up timing from studio to penthouse, under multiple appreciation rates.  
 
-### Move-In Bonus Calculator™  
+### 💸 Move-In Bonus Calculator™  
 Calculate net present value of developer incentives when negotiating purchase.  
 
 ---
 
-## Quick Start  
+## 🚀 Quick Start  
 
 ```bash
 git clone https://github.com/GarrickPinon/2buyornot2buy.git
@@ -120,7 +125,7 @@ streamlit run app.py
 
 ---
 
-## Repo Structure  
+## 🗂️ Repo Structure  
 ```
 ├── app.py                  # Streamlit dashboard
 ├── data/  
@@ -137,14 +142,10 @@ streamlit run app.py
 
 ---
 
-## Statistical & Mathematical Foundations  
+## 📐 Statistical & Mathematical Foundations  
 - **Bayesian Inference** – posterior weighting, belief updating, probabilistic scoring  
 - **Monte Carlo Methods** – stochastic sampling, uncertainty quantification  
 - **Optimization** – gradient-based tuning, regularization  
-
----
-
-Perfect—you're referring to the **inline “Textbook vs Codebook” format** from the `2sweet2f(x)` repo, where each concept is broken down with a textbook formula followed by its code execution, all in a clean numbered list. Here's a matching version for your `2buyornot2buy™` notebook:
 
 ---
 
@@ -168,7 +169,7 @@ Perfect—you're referring to the **inline “Textbook vs Codebook” format** f
 
 ---
 
-## Contributing  
+## 🤝 Contributing  
 We’re stronger together.  
 1. Fork the repo  
 2. Create your branch: `git checkout -b feature/your-feature`  
@@ -178,7 +179,7 @@ We’re stronger together.
 
 ---
 
-## License  
+## 🪪 License  
 © 2025 Garrick Pinon. MIT License.  
 This is not a demo, not a class assignment, not a generic tutorial—this is **2buyornot2buy™**, your blueprint for real-time strategic real estate decisions.
 
@@ -198,9 +199,14 @@ This is not a demo, not a class assignment, not a generic tutorial—this is **2
 
 ---
 
+### 🏷️ Loyalty Footer
+
+
 [![📜 README Loyalist](https://img.shields.io/badge/README-Loyalist-blue.svg)](#)
 [![🌀 Doomscroll Certified](https://img.shields.io/badge/Doomscroll-Certified-darkred.svg)](#)
 [![🧠 Brain-Fried but Brilliant](https://img.shields.io/badge/Brain--Fried-but%20Brilliant-lightgrey.svg)](#)
 [![🍪 Cookie for the Curious](https://img.shields.io/badge/Cookie-for%20the%20Curious-brown.svg)](#)
 [![🧭 Markdown Pilgrim](https://img.shields.io/badge/Markdown-Pilgrim-teal.svg)](#)
 [![🫀 Faithful to the End](https://img.shields.io/badge/Faithful-to%20the%20End-pink.svg)](#)
+
+
