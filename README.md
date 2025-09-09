@@ -40,7 +40,9 @@
 ---
 
 ## What is 2buyornot2buy™?  
-A strategic decision engine for timing and structuring luxury condo acquisitions at The Parker in Boston. Got Shakespeare on your side—*to buy or not to buy* is answered with data.  
+A strategic decision engine for timing and structuring luxury condo acquisitions at The Parker in Boston. Got Shakespeare on your side,*to buy or not to buy?* 
+
+Answered with data.  
 
 ## Powered by  
 **Alpha De Luxe™**  
