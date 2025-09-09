@@ -1,6 +1,8 @@
 # 2buyornot2buy™ 🏙️  
 *A Shakespearean pun meets strategic real estate decision science. Powered by Alpha De Luxe™.*  
 
+images/Parker Analysis.png
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Build: Proprietary Notebook](https://img.shields.io/badge/Build-Proprietary%20Notebook-darkred.svg)](#)
