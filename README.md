@@ -1,7 +1,8 @@
 # 2buyornot2buy™ 🏙️  
 *A Shakespearean pun meets strategic real estate decision science. Powered by Alpha De Luxe™.*  
 
-images/Parker Analysis.png
+![Upgrade Path Timeline – The Parker Boston](images/Parker%20Analysis.png)
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
