@@ -22,7 +22,7 @@
 - [🌀 How It Works](#how-it-works)
   - [🗂️ ETL](#etl)
   - [📊 EDA](#eda)
-  - [🧬 Micro-Alpha Scaffolding](#micro-alpha-scaffolding)
+  - [🧬 Micro-Alpha Scaffolding™](#micro-alpha-scaffolding)
   - [🏗️ Feature Engineering](#feature-engineering)
   - [📈 Price Forecasting](#price-forecasting)
 - [🌐 Macroeconomic Modules](#macroeconomic-modules)
@@ -76,7 +76,7 @@ Extract Boston condo pricing, incentives, and macro data; transform into unified
 ### 📊 EDA  
 Explore price distributions, incentive impacts, and seasonal patterns with interactive visualizations.  
 
-### 🧬 Micro-Alpha Scaffolding  
+### 🧬 Micro-Alpha Scaffolding™  
 Build focused sub-models on niche signals—like fringe market incentives—layered to amplify alpha.  
 
 ### 🏗️ Feature Engineering  
