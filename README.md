@@ -54,17 +54,23 @@ Answered with data.
 **Alpha De Luxe™**  
 A unique, original, first-of-its-kind scaffold combining proprietary applied mathematics, probability-weighted scenario simulations, and machine learning.  
 
+
 ---
 
-## 🔧 Proprietary Modules  
-- **Macroeconomic Scenario Forecasting Engine™**  
-- **Scenario Forecast Comparison Engine™**  
-- **Macroeconomic Scenario Probability Calculator™**  
-- **Weighted Macroeconomic Probability Calculator™**  
-- **Micro-Market Incentive Value Extraction Calculator™**  
-- **The Buy Signal Decision Engine™**  
-- **Upgrade Path & Timeline Calculator™**  
-- **Move-In Bonus Calculator™**  
+
+## 🧠 Proprietary Strategy Stack
+
+This project integrates a modular set of trademarked modeling strategies designed for predictive clarity, equity optimization, and decision leverage:
+
+- **Power Moves ROI Optimization™** – Strategic umbrella for remodeling and location valuation  
+- **Splash-to-Cash Strategy™** – Amenity-aware ROI modeling for pool installations  
+- **Bang-for-Buck Remodeling Strategy™** – Tactical upgrade ROI analysis  
+- **Micro-Alpha Scaffolding™** – Signal extraction from low-noise features  
+- **Buy Signal Decision Engine™** – Final-stage recommendation logic  
+- **Macroeconomic Scenario Engines™** – Forecasting, comparison, and probability modeling  
+- **Upgrade Path & Lifetime Value™** – Long-term equity optimization  
+- **The Money in Bonus Calculator™** – Incentive modeling for buyer psychology  
+- **Life Elevator™** – Narrative wrapper for the full modeling journey
 
 ---
 
