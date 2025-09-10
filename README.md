@@ -127,17 +127,26 @@ streamlit run app.py
 
 ## 🗂️ Repo Structure  
 ```
-├── app.py                  # Streamlit dashboard
-├── data/  
-│   ├── raw/                # Original price & macro CSVs  
-│   └── processed/          # Cleaned datasets  
-├── modules/  
-│   ├── etl.py              # Extraction & transformation  
-│   ├── forecasting.py      # ML pipelines & scenario sim  
-│   ├── decision_engine.py  # Buy signal & negotiation logic  
-│   └── viz.py              # Plot utilities  
-├── requirements.txt  
-└── README.md
+2buyornot2buy/
+├── app.py                      # Streamlit dashboard
+├── data/
+│   ├── raw/                    # Original price & macro CSVs
+│   └── processed/              # Cleaned datasets
+├── modules/
+│   ├── etl.py                  # Extraction & transformation
+│   ├── forecasting.py          # ML pipelines & scenario sim
+│   ├── decision_engine.py      # Buy signal & negotiation logic
+│   ├── incentive_calc.py       # Move-in bonus + upgrade timeline
+│   └── viz.py                  # Plot utilities
+├── trademarks/
+│   ├── LICENSE_IP.md           # Proprietary module declarations
+│   └── TRADEMARKS.md           # Definitions + usage rights
+├── notebooks/
+│   └── alpha_sandbox.ipynb     # Experimental scaffolding + EDA
+├── README.md                   # Council-grade overview
+├── requirements.txt            # Dependencies
+└── .streamlit/
+    └── config.toml             # UI tweaks (theme, layout)
 ```
 
 ---
