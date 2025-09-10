@@ -188,9 +188,11 @@ We’re stronger together.
 
 ---
 
-## 🪪 License  
-© 2025 Garrick Pinon. MIT License.  
-This is not a demo, not a class assignment, not a generic tutorial—this is **2buyornot2buy™**, your blueprint for real-time strategic real estate decisions.
+
+```markdown
+🪪 License  
+MIT License. Includes proprietary modules listed in [LICENSE_IP.md](trademarks/LICENSE_IP.md).
+```
 
 
 [![XPS: 386,585](https://img.shields.io/badge/DataCamp%20XPS-386%2C585-brightgreen.svg)](https://app.datacamp.com/)
