@@ -232,6 +232,5 @@ MIT License. Includes proprietary modules listed in [LICENSE_IP.md](trademarks/L
 [![Mood: Proprietary but Generous](https://img.shields.io/badge/Mood-Proprietary%20but%20Generous-gold.svg)](#)
 [![Drop Type: Portfolio Artifact](https://img.shields.io/badge/Drop%20Type-Portfolio%20Artifact-teal.svg)](#)
 
-```
 
 ---
