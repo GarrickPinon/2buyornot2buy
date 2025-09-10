@@ -8,34 +8,46 @@
 
 This repository includes original intellectual property authored by Garrick Piñón. The following modules, methods, and frameworks are proprietary and trademarked, and may not be reproduced, repackaged, or deployed commercially without explicit permission.
 
-## Trademarked Modules
+## Trademarked Modeling Strategies
+
+- **Power Moves ROI Optimization™**  
+  Strategic umbrella for remodeling and location-based valuation. Frames upgrades and context as high-leverage equity decisions.
+
+- **Splash-to-Cash Strategy™**  
+  Amenity-aware modeling layer focused on pool presence and installation ROI. Includes future coefficient-based valuation logic.
+
+- **Bang-for-Buck Remodeling Strategy™**  
+  Tactical upgrade ROI analysis, modular and interpretable. Submodule within Power Moves ROI Optimization™.
 
 - **Micro-Alpha Scaffolding™**  
-  Probabilistic modeling framework for niche signal amplification and scenario layering.
+  Modular predictive layer for extracting high-frequency signal from low-noise features.
+
+- **Buy Signal Decision Engine™**  
+  Final-stage recommendation engine integrating macroeconomic scenarios, upgrade paths, and incentive layers.
 
 - **Macroeconomic Scenario Forecasting Engine™**  
-  Simulates housing price indices under user-defined macroeconomic regimes.
+  Predictive module for simulating future economic conditions.
 
 - **Scenario Forecast Comparison Engine™**  
-  Visual overlay of historical and simulated forecasts with seasonal markers.
+  Comparative layer for evaluating multiple macroeconomic paths.
 
 - **Macroeconomic Scenario Probability Calculator™**  
-  Assigns probabilistic weights to macroeconomic paths based on historical data.
+  Probabilistic modeling of scenario likelihoods.
 
 - **Weighted Macroeconomic Probability Calculator™**  
-  Blends scenario outputs using assigned probabilities for final forecast.
+  Enhanced version with scenario weighting and decision impact modeling.
 
 - **Micro-Market Incentive Value Extraction Calculator™**  
-  Quantifies local incentives and developer bonuses in net-present-value terms.
+  Localized incentive modeling for buyer behavior and upgrade ROI.
 
-- **The Buy Signal Decision Engine™**  
-  Applies decision logic to forecast outputs to generate actionable signals.
+- **Upgrade Path & Lifetime Value™**  
+  Strategic roadmap for long-term property value optimization.
 
-- **Upgrade Path & Timeline Calculator™**  
-  Models equity build-up and trade-up timing across unit tiers.
+- **The Money in Bonus Calculator™**  
+  Incentive quantification engine for bonus structures and buyer psychology.
 
-- **Move-In Bonus Calculator™**  
-  Calculates the financial impact of developer incentives on purchase timing.
+- **Life Elevator™**  
+  Narrative wrapper for the full modeling stack, from intro to penthouse ascent.
 
 ## Usage Rights
 
