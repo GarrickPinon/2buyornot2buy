@@ -111,6 +111,8 @@ Model equity build-up and trade-up timing from studio to penthouse, under multip
 ### 💸 Move-In Bonus Calculator™  
 Calculate net present value of developer incentives when negotiating purchase.  
 
+
+
 ---
 
 ## 🚀 Quick Start  
@@ -186,14 +188,41 @@ We’re stronger together.
 4. Push: `git push origin feature/your-feature`  
 5. Open a PR and describe your enhancement  
 
+
 ---
 
+## 📜 License
 
-```markdown
+![🍬 2sweet2f(x) Approved](https://img.shields.io/badge/2sweet2f(x)-Approved-pink)
+![🧼 Format Certified](https://img.shields.io/badge/Format-Certified-blueviolet)
+![📊 Recall-Optimized](https://img.shields.io/badge/Recall-Optimized-orange)
+![🧠 Flat & Fast Certified](https://img.shields.io/badge/Flat--%26--Fast-Certified-lightgrey)
+![📁 Structure Certified](https://img.shields.io/badge/Structure-Thoroughness%20is%20the%20Brand-green)
+![🧠 Laugh-Driven ML](https://img.shields.io/badge/Laugh--Driven-ML%20Pipeline-yellowgreen)
+![🧱 Modular ML Certified](https://img.shields.io/badge/Modular-ML%20Certified-cyan)
+
 🪪 License  
 MIT License. Includes proprietary modules listed in [LICENSE_IP.md](trademarks/LICENSE_IP.md).
-```
 
+---
+
+## 🏷️ Loyalty Badges – Faithful to the Footer
+
+> If you’re reading this, you’re not just curious—you’re committed. These badges are for you. Let's be friends.
+
+![📜 README Loyalist](https://img.shields.io/badge/README-Loyalist-lightblue)
+![🌀 Doomscroll Certified](https://img.shields.io/badge/Doomscroll-Certified-darkred)
+![🧠 Brain-Fried but Brilliant](https://img.shields.io/badge/Brain--Fried-But%20Brilliant-magenta)
+![🍪 Cookie for the Curious](https://img.shields.io/badge/Cookie-For%20the%20Curious-brown)
+![🧭 Markdown Pilgrim](https://img.shields.io/badge/Markdown-Pilgrim-silver)
+![🫀 Faithful to the End](https://img.shields.io/badge/Faithful-To%20the%20End-darkgreen)
+![Quantsultant™](https://img.shields.io/badge/Quantsultant™-Certified-purple)
+![Sugar-Free ML](https://img.shields.io/badge/Sugar--Free-ML%20Pipeline-pink)
+![🧪 Badge of Experimental Brilliance](https://img.shields.io/badge/Badge-Experimental%20Brilliance-limegreen)
+
+---
+
+## 🧠 Bonus Metrics
 
 [![XPS: 386,585](https://img.shields.io/badge/DataCamp%20XPS-386%2C585-brightgreen.svg)](https://app.datacamp.com/)
 [![Loyalty: No Chill](https://img.shields.io/badge/Loyalty-No%20Chill-ff69b4.svg)](#)
@@ -201,23 +230,8 @@ MIT License. Includes proprietary modules listed in [LICENSE_IP.md](trademarks/L
 [![Notebook Vibe: Shakespearean Flex](https://img.shields.io/badge/Vibe-Shakespearean%20Flex-lightgrey.svg)](#)
 [![Build Ethos: Not a Demo](https://img.shields.io/badge/Ethos-Not%20a%20Demo-critical.svg)](#)
 [![Mood: Proprietary but Generous](https://img.shields.io/badge/Mood-Proprietary%20but%20Generous-gold.svg)](#)
-[![Flex Level: Quantsultant™](https://img.shields.io/badge/Flex%20Level-Quantsultant™-indigo.svg)](#)
 [![Drop Type: Portfolio Artifact](https://img.shields.io/badge/Drop%20Type-Portfolio%20Artifact-teal.svg)](#)
-[![🧼 Format Certified](https://img.shields.io/badge/Format-Certified-lightblue.svg)](#)
-[![📊 Recall-Optimized](https://img.shields.io/badge/Recall-Optimized-blue.svg)](#)
-[![📁 Structure Certified](https://img.shields.io/badge/Structure-Certified-orange.svg)](#)
-[![🧱 Modular ML Certified](https://img.shields.io/badge/Modular%20ML-Certified-red.svg)](#)
+
+```
 
 ---
-
-### 🏷️ Loyalty Footer
-
-
-[![📜 README Loyalist](https://img.shields.io/badge/README-Loyalist-blue.svg)](#)
-[![🌀 Doomscroll Certified](https://img.shields.io/badge/Doomscroll-Certified-darkred.svg)](#)
-[![🧠 Brain-Fried but Brilliant](https://img.shields.io/badge/Brain--Fried-but%20Brilliant-lightgrey.svg)](#)
-[![🍪 Cookie for the Curious](https://img.shields.io/badge/Cookie-for%20the%20Curious-brown.svg)](#)
-[![🧭 Markdown Pilgrim](https://img.shields.io/badge/Markdown-Pilgrim-teal.svg)](#)
-[![🫀 Faithful to the End](https://img.shields.io/badge/Faithful-to%20the%20End-pink.svg)](#)
-
-
