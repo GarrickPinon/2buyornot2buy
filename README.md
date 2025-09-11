@@ -1,7 +1,10 @@
 ### 🏙️ 2buyornot2buy™ 🏙️  
 *A Shakespearean pun meets strategic real estate decision science. Powered by Alpha De Luxe™.*  
 
-![Upgrade Path Timeline – The Parker Boston](images/Parker%20Analysis.png)
+![The Parker luxury condominium in Back Bay, Boston](images/the-parker.jpg)
+
+*Figure 1. Exterior view of The Parker luxury condo, the data source for the 2buyornot2buy™ price prediction models.*
+
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
