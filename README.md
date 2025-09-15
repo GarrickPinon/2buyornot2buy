@@ -1,5 +1,5 @@
 ### 🏙️ 2buyornot2buy™ 🏙️  
-*A Shakespearean pun meets strategic real estate decision science. Powered by Alpha De Luxe™.*  
+* Powered by Alpha De Luxe™ the interest rate, housing price prediction and upgrade strategy so accurate it's poetic; Shakespearean, nearly.*  
 
 ![The Parker luxury condominium in Back Bay, Boston](images/the-parker.jpg)
 
@@ -121,8 +121,27 @@ Model equity build-up and trade-up timing from studio to penthouse, under multip
 Calculate net present value of developer incentives when negotiating purchase.  
 
 
+---
+
+
+## 📉 Predictive Modeling Clairvoyance Index™
+## Marhc 2025 ⏭️ September 2025 Prediction Robustness Annotation 
+
+> **📉 Pre-April 2025 "Market Tarriff Tantrum Drag", my housing interest rate forecasted in March 2025: -6.18%**  
+> Alpha De Luxe™ priced in a somewhat unexpected stock market volatility event in April as a "tariff tantrum" reaction 
+>  
+> - My forecast looks poised to land within 0.06% of ground truth (pending final Fed rate cut confirmation, 99% probable)  
+> - Some tariff finalizations are still pending, with a 90-day extension active (e.g., China)  
+> -  As lightning doesn't strike twice, you can also check out my modern mercantilism dashboard which looks poised to correctly call an average 15% tarriff rate across the board.
+>  
+> *Predictions this robust are not mere good fortune —it’s latent signal clairvoyance.*  
+>  
+> 🔗 [Modern Mercantilism Dashboard](https://github.com/GarrickPinon/Modern-Mercantilism)  
+> *Average tariff rate now converging toward the 15% estimate embedded in the original model.*
+
 
 ---
+
 
 ## 🚀 Quick Start  
 
