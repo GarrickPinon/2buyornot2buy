@@ -1,5 +1,5 @@
-### 🏙️ 2buyornot2buy™ 🏙️  
-* Powered by Alpha De Luxe™ the interest rate, housing price prediction and upgrade strategy so accurate it's poetic; Shakespearean, nearly.*  
+# 🏙️ 2buyornot2buy™ 🏙️  
+## * Powered by Alpha De Luxe™ the interest rate, housing price prediction and upgrade strategy so accurate it's poetic; Shakespearean, nearly.*  
 
 ![The Parker luxury condominium in Back Bay, Boston](images/the-parker.jpg)
 
