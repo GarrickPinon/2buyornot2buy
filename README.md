@@ -125,14 +125,14 @@ Calculate net present value of developer incentives when negotiating purchase.
 
 
 ## 📉 Predictive Modeling Clairvoyance Index™
-## Marhc 2025 ⏭️ September 2025 Prediction Robustness Annotation 
+## March 2025 ⏭️ September 2025 Prediction Robustness Annotation 
 
 > **📉 Pre-April 2025 "Market Tarriff Tantrum Drag", my housing interest rate forecasted in March 2025: -6.18%**  
 > Alpha De Luxe™ priced in a somewhat unexpected stock market volatility event in April as a "tariff tantrum" reaction 
 >  
 > - My forecast looks poised to land within 0.06% of ground truth (pending final Fed rate cut confirmation, 99% probable)  
 > - Some tariff finalizations are still pending, with a 90-day extension active (e.g., China)  
-> -  As lightning doesn't strike twice, you can also check out my modern mercantilism dashboard which looks poised to correctly call an average 15% tarriff rate across the board.
+- As lightning doesn't strike twice, you can also check out my modern mercantilism dashboard, which appears poised to accurately predict an average 15% tariff rate across the board.
 >  
 > *Predictions this robust are not mere good fortune —it’s latent signal clairvoyance.*  
 >  
